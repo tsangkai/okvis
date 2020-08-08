@@ -1,6 +1,8 @@
 README                        {#mainpage}
 ======
 
+A version that works on my ubuntu.
+
 Welcome to OKVIS: Open Keyframe-based Visual-Inertial SLAM. 
 
 This is the Author's implementation of the [1] and [3] with more results in [2].
